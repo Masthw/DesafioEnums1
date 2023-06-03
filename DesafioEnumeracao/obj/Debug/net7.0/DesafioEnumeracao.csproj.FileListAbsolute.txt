@@ -1,0 +1,15 @@
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\bin\Debug\net7.0\DesafioEnumeracao.exe
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\bin\Debug\net7.0\DesafioEnumeracao.deps.json
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\bin\Debug\net7.0\DesafioEnumeracao.runtimeconfig.json
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\bin\Debug\net7.0\DesafioEnumeracao.dll
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\bin\Debug\net7.0\DesafioEnumeracao.pdb
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\obj\Debug\net7.0\DesafioEnumeracao.csproj.AssemblyReference.cache
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\obj\Debug\net7.0\DesafioEnumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\obj\Debug\net7.0\DesafioEnumeracao.AssemblyInfoInputs.cache
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\obj\Debug\net7.0\DesafioEnumeracao.AssemblyInfo.cs
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\obj\Debug\net7.0\DesafioEnumeracao.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\obj\Debug\net7.0\DesafioEnumeracao.dll
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\obj\Debug\net7.0\refint\DesafioEnumeracao.dll
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\obj\Debug\net7.0\DesafioEnumeracao.pdb
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\obj\Debug\net7.0\DesafioEnumeracao.genruntimeconfig.cache
+C:\Projetos C#\ExercicioProposto1\DesafioEnums\DesafioEnumeracao\DesafioEnumeracao\obj\Debug\net7.0\ref\DesafioEnumeracao.dll
